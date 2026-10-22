@@ -1,0 +1,2 @@
+# Core CLI uses only the Python 3.8+ standard library (urllib, http.cookiejar, ssl, json, cmd, argparse, getpass).
+# No third-party runtime dependencies are required.
